@@ -1,0 +1,100 @@
+name,department,skills,availability_hrs,past_success_rate
+Engineering_M0,Engineering,Flask;Kubernetes,35,0.72
+Engineering_M1,Engineering,Python;Flask;MongoDB;Kubernetes;AWS;SQL,14,0.95
+Engineering_M2,Engineering,Kubernetes;AWS;Git;MongoDB,22,0.73
+Engineering_M3,Engineering,Git;SQL;MongoDB;Flask;Python;AWS,39,0.64
+Engineering_M4,Engineering,SQL;Python,33,0.65
+Engineering_M5,Engineering,MongoDB;Git;React;Kubernetes;Docker,24,0.9
+Engineering_M6,Engineering,AWS;Python;SQL;Git;React;Kubernetes,15,0.9
+Engineering_M7,Engineering,Docker;Python,21,0.86
+Engineering_M8,Engineering,Docker;SQL;Kubernetes,25,0.87
+Engineering_M9,Engineering,AWS;MongoDB;Docker;Git;React;Kubernetes,26,0.78
+Engineering_M10,Engineering,Docker;Flask;MongoDB,14,0.72
+Engineering_M11,Engineering,Docker;SQL;Flask;React;Python,37,0.66
+Engineering_M12,Engineering,MongoDB;Git;Flask;Python;React;AWS,28,0.74
+Engineering_M13,Engineering,Python;Git;Flask;Kubernetes;React;Docker,18,0.71
+Engineering_M14,Engineering,Git;AWS;SQL;MongoDB;Flask,24,0.69
+Engineering_M15,Engineering,MongoDB;Docker;Python;React;AWS;SQL,10,0.74
+Engineering_M16,Engineering,Flask;AWS;SQL;React;MongoDB;Docker,22,0.79
+Engineering_M17,Engineering,Flask;Git;MongoDB;React;Python,37,0.91
+Engineering_M18,Engineering,AWS;SQL;Kubernetes;Python;Docker;MongoDB,19,0.73
+Engineering_M19,Engineering,AWS;React,37,0.86
+Engineering_M20,Engineering,SQL;Kubernetes;MongoDB;Docker;Git,36,0.72
+Engineering_M21,Engineering,Git;Kubernetes;SQL;React;MongoDB;Flask,18,0.9
+Engineering_M22,Engineering,Git;AWS;MongoDB,35,0.8
+Engineering_M23,Engineering,Python;Docker;SQL;Git;Flask,31,0.95
+Engineering_M24,Engineering,SQL;Docker;Kubernetes;Git,25,0.76
+Engineering_M25,Engineering,MongoDB;React;SQL;Kubernetes;Flask,23,0.68
+Engineering_M26,Engineering,React;Flask;AWS;SQL,36,0.96
+Engineering_M27,Engineering,Git;MongoDB;AWS;Docker;Kubernetes,22,0.62
+Engineering_M28,Engineering,Kubernetes;Git,32,0.61
+Engineering_M29,Engineering,AWS;Docker;MongoDB;Git;Kubernetes;SQL,21,0.97
+Engineering_M30,Engineering,Flask;Git;MongoDB;SQL;Kubernetes;React,32,0.85
+Engineering_M31,Engineering,React;SQL;Flask;Git,14,0.76
+Engineering_M32,Engineering,React;SQL;AWS;Kubernetes;Git;Docker,32,0.64
+Marketing_M33,Marketing,Google Ads;Market Research;Figma,23,0.86
+Marketing_M34,Marketing,SEO;Market Research;Content Marketing,31,0.68
+Marketing_M35,Marketing,Content Marketing;Market Research,37,0.72
+Marketing_M36,Marketing,Google Ads;Figma;Content Marketing;SEO;Market Research,23,0.68
+Marketing_M37,Marketing,SEO;Content Marketing;Google Ads;Figma;Market Research,15,0.81
+Marketing_M38,Marketing,Market Research;Google Ads;SEO;Content Marketing;Figma,38,0.64
+Marketing_M39,Marketing,SEO;Figma;Market Research,27,0.96
+Marketing_M40,Marketing,Figma;SEO,10,0.82
+Marketing_M41,Marketing,SEO;Content Marketing;Google Ads;Market Research,38,0.61
+Marketing_M42,Marketing,Market Research;Figma,30,0.97
+Marketing_M43,Marketing,Content Marketing;Figma;Market Research;SEO;Google Ads,16,0.67
+Marketing_M44,Marketing,SEO;Figma;Google Ads;Market Research;Content Marketing,25,0.95
+Marketing_M45,Marketing,Google Ads;Market Research;Figma;SEO;Content Marketing,40,0.91
+Marketing_M46,Marketing,Content Marketing;SEO;Google Ads;Market Research,16,0.76
+Marketing_M47,Marketing,Market Research;SEO;Figma;Google Ads,26,0.79
+Marketing_M48,Marketing,Figma;Google Ads;Content Marketing,13,0.61
+Marketing_M49,Marketing,SEO;Market Research;Content Marketing;Figma;Google Ads,26,0.71
+Marketing_M50,Marketing,Google Ads;Figma;Content Marketing,34,0.65
+Marketing_M51,Marketing,SEO;Content Marketing;Market Research,17,0.93
+Marketing_M52,Marketing,Google Ads;SEO;Market Research;Content Marketing;Figma,18,0.95
+Marketing_M53,Marketing,Content Marketing;Figma,22,0.67
+Marketing_M54,Marketing,SEO;Google Ads;Market Research;Content Marketing;Figma,16,0.93
+Marketing_M55,Marketing,SEO;Google Ads;Content Marketing;Figma,28,0.95
+Marketing_M56,Marketing,Market Research;Figma,27,0.81
+Marketing_M57,Marketing,Content Marketing;Google Ads;Figma,34,0.79
+Marketing_M58,Marketing,Content Marketing;SEO,31,0.95
+Marketing_M59,Marketing,Google Ads;Figma;Content Marketing;Market Research;SEO,35,0.61
+Marketing_M60,Marketing,Market Research;Figma;SEO;Content Marketing,40,0.92
+Marketing_M61,Marketing,SEO;Content Marketing,31,0.88
+Marketing_M62,Marketing,Content Marketing;Google Ads;Figma;Market Research;SEO,17,0.72
+Marketing_M63,Marketing,Google Ads;Market Research,15,0.78
+Marketing_M64,Marketing,Content Marketing;Google Ads;Figma;Market Research;SEO,37,0.82
+Marketing_M65,Marketing,Figma;Google Ads;Market Research,15,0.65
+Sales_M66,Sales,Cold Calling;Negotiation;Lead Generation,25,0.81
+Sales_M67,Sales,Negotiation;CRM;Salesforce;Lead Generation,22,0.64
+Sales_M68,Sales,CRM;Negotiation;Cold Calling;Salesforce,15,0.6
+Sales_M69,Sales,CRM;Cold Calling,27,0.93
+Sales_M70,Sales,CRM;Salesforce;Negotiation,36,0.83
+Sales_M71,Sales,Lead Generation;CRM;Cold Calling;Salesforce,14,0.63
+Sales_M72,Sales,Salesforce;Cold Calling,34,0.65
+Sales_M73,Sales,Negotiation;CRM;Salesforce,18,0.65
+Sales_M74,Sales,Salesforce;CRM;Negotiation,11,0.93
+Sales_M75,Sales,Cold Calling;Lead Generation;Negotiation;Salesforce;CRM,36,0.69
+Sales_M76,Sales,Lead Generation;CRM,17,0.78
+Sales_M77,Sales,CRM;Negotiation;Cold Calling;Salesforce,32,0.68
+Sales_M78,Sales,Lead Generation;Salesforce;CRM;Negotiation,20,0.73
+Sales_M79,Sales,Cold Calling;Lead Generation;CRM,27,0.65
+Sales_M80,Sales,Salesforce;Cold Calling,36,0.69
+Sales_M81,Sales,CRM;Cold Calling;Negotiation,37,0.72
+Sales_M82,Sales,Cold Calling;CRM;Negotiation;Salesforce;Lead Generation,15,0.97
+Sales_M83,Sales,Lead Generation;Cold Calling;CRM;Salesforce;Negotiation,31,0.8
+Sales_M84,Sales,Salesforce;Lead Generation,38,0.71
+Sales_M85,Sales,Lead Generation;Negotiation,22,0.93
+Sales_M86,Sales,Negotiation;Cold Calling;Salesforce,38,0.96
+Sales_M87,Sales,Negotiation;Cold Calling;Salesforce,30,0.95
+Sales_M88,Sales,CRM;Salesforce;Lead Generation;Cold Calling,19,0.88
+Sales_M89,Sales,Cold Calling;Lead Generation;CRM,25,0.62
+Sales_M90,Sales,Negotiation;CRM;Lead Generation;Salesforce;Cold Calling,38,0.66
+Sales_M91,Sales,CRM;Salesforce;Lead Generation;Negotiation;Cold Calling,35,0.66
+Sales_M92,Sales,Salesforce;Cold Calling;Lead Generation;Negotiation;CRM,28,0.95
+Sales_M93,Sales,Negotiation;CRM,14,0.73
+Sales_M94,Sales,Lead Generation;Negotiation;Salesforce,36,0.65
+Sales_M95,Sales,Negotiation;Salesforce;Lead Generation;Cold Calling,40,0.63
+Sales_M96,Sales,Lead Generation;Negotiation;Cold Calling;CRM;Salesforce,24,0.9
+Sales_M97,Sales,Negotiation;Lead Generation;Salesforce;CRM;Cold Calling,20,0.93
+Sales_M98,Sales,CRM;Negotiation,39,0.97

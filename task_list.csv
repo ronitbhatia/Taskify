@@ -1,0 +1,199 @@
+task_id,description,required_skills,complexity,deadline_days,department
+T1000,Build a SQL microservice using Flask,AWS;Flask;React,4,8,Engineering
+T1001,Build a MongoDB microservice using Python,AWS;Flask,3,6,Engineering
+T1002,Write unit tests using React,Kubernetes;Flask;Docker;Python,2,11,Engineering
+T1003,Set up CI/CD with Docker,SQL;Flask;MongoDB;AWS,5,5,Engineering
+T1004,Build a Flask microservice using SQL,Python;AWS;Flask;MongoDB,3,9,Engineering
+T1005,Write unit tests using MongoDB,React;Docker;Kubernetes;Git,1,4,Engineering
+T1006,Set up CI/CD with SQL,MongoDB;Docker;Git,2,4,Engineering
+T1007,Write unit tests using Flask,MongoDB;AWS,4,11,Engineering
+T1008,Set up CI/CD with Docker,SQL;AWS,4,11,Engineering
+T1009,Set up CI/CD with Python,Git;Python;MongoDB,3,2,Engineering
+T1010,Build a AWS microservice using React,Flask;Docker,5,7,Engineering
+T1011,Build a Kubernetes microservice using AWS,Git;Docker;React,4,2,Engineering
+T1012,Write unit tests using Flask,SQL;Python;Flask;Git,4,7,Engineering
+T1013,Write unit tests using Flask,Flask;Git;AWS,4,3,Engineering
+T1014,Build a Git microservice using MongoDB,Git;Kubernetes,5,6,Engineering
+T1015,Write unit tests using SQL,Python;AWS;Git;Kubernetes,2,2,Engineering
+T1016,Set up CI/CD with Git,Docker;AWS;SQL,3,13,Engineering
+T1017,Set up CI/CD with SQL,React;Flask,1,4,Engineering
+T1018,Set up CI/CD with Python,Python;SQL,5,8,Engineering
+T1019,Write unit tests using Python,Flask;Kubernetes,5,4,Engineering
+T1020,Write unit tests using MongoDB,Docker;Python,5,11,Engineering
+T1021,Build a AWS microservice using Docker,Docker;Flask;Kubernetes,1,9,Engineering
+T1022,Build a Kubernetes microservice using Git,SQL;Python,5,8,Engineering
+T1023,Build a Python microservice using React,Flask;Kubernetes,1,4,Engineering
+T1024,Build a React microservice using Python,SQL;Git;React;Kubernetes,4,8,Engineering
+T1025,Set up CI/CD with Kubernetes,Docker;AWS;SQL;Kubernetes,3,13,Engineering
+T1026,Set up CI/CD with SQL,SQL;React,4,13,Engineering
+T1027,Write unit tests using Git,Kubernetes;Git,3,13,Engineering
+T1028,Build a MongoDB microservice using React,Python;MongoDB;AWS,3,5,Engineering
+T1029,Set up CI/CD with Kubernetes,MongoDB;Kubernetes;SQL;Git,1,13,Engineering
+T1030,Set up CI/CD with Git,Kubernetes;SQL,1,5,Engineering
+T1031,Write unit tests using Python,AWS;MongoDB,2,3,Engineering
+T1032,Build a Python microservice using React,Docker;AWS,4,13,Engineering
+T1033,Write unit tests using MongoDB,Flask;Docker;AWS;SQL,4,11,Engineering
+T1034,Write unit tests using SQL,AWS;Git;MongoDB;Python,3,7,Engineering
+T1035,Write unit tests using Git,Python;MongoDB;AWS,2,7,Engineering
+T1036,Build a Flask microservice using Kubernetes,Docker;Flask;Kubernetes;SQL,2,10,Engineering
+T1037,Build a Kubernetes microservice using Docker,SQL;Python;Kubernetes,1,3,Engineering
+T1038,Write unit tests using Docker,React;Docker;Flask;Git,2,14,Engineering
+T1039,Write unit tests using Kubernetes,AWS;Git;React,5,13,Engineering
+T1040,Set up CI/CD with MongoDB,SQL;Flask,4,12,Engineering
+T1041,Write unit tests using React,Docker;SQL,4,4,Engineering
+T1042,Write unit tests using SQL,Flask;SQL;Python,4,8,Engineering
+T1043,Set up CI/CD with Flask,Python;Kubernetes;SQL;Flask,2,10,Engineering
+T1044,Build a AWS microservice using Git,Kubernetes;Flask;MongoDB;Git,4,2,Engineering
+T1045,Write unit tests using Kubernetes,Flask;MongoDB;Git;Python,4,14,Engineering
+T1046,Write unit tests using Git,Flask;MongoDB,3,5,Engineering
+T1047,Set up CI/CD with MongoDB,React;Docker;Flask;Git,4,10,Engineering
+T1048,Set up CI/CD with AWS,Python;MongoDB;AWS,4,6,Engineering
+T1049,Write unit tests using Python,AWS;Python;Flask,4,3,Engineering
+T1050,Write unit tests using Git,Git;Docker;Python;MongoDB,4,2,Engineering
+T1051,Build a MongoDB microservice using Python,AWS;Docker;Python;Flask,5,6,Engineering
+T1052,Build a MongoDB microservice using AWS,Git;React,1,9,Engineering
+T1053,Set up CI/CD with Python,Flask;AWS;Python,3,5,Engineering
+T1054,Set up CI/CD with React,Docker;AWS;Kubernetes;Flask,3,10,Engineering
+T1055,Build a Git microservice using Docker,MongoDB;Flask,3,14,Engineering
+T1056,Write unit tests using MongoDB,AWS;Git;SQL,1,14,Engineering
+T1057,Write unit tests using React,Git;Python;Kubernetes;SQL,3,8,Engineering
+T1058,Write unit tests using MongoDB,AWS;Python;Git;SQL,4,7,Engineering
+T1059,Write unit tests using Git,React;Flask,4,2,Engineering
+T1060,Set up CI/CD with Python,Git;AWS,3,3,Engineering
+T1061,Write unit tests using React,Python;Flask;React,4,12,Engineering
+T1062,Write unit tests using MongoDB,React;Flask;SQL;Kubernetes,1,6,Engineering
+T1063,Write unit tests using Kubernetes,MongoDB;Kubernetes;Python,5,2,Engineering
+T1064,Build a AWS microservice using Docker,Docker;React,4,7,Engineering
+T1065,Build a AWS microservice using Kubernetes,Kubernetes;React;Docker,1,7,Engineering
+T1066,Design creatives with Market Research,Figma;Google Ads;Content Marketing;Market Research,5,5,Marketing
+T1067,Design creatives with Content Marketing,Content Marketing;Google Ads;Figma,2,14,Marketing
+T1068,Optimize SEO using Figma,Google Ads;Market Research;Figma;Content Marketing,2,5,Marketing
+T1069,Design creatives with Figma,SEO;Content Marketing;Figma,1,11,Marketing
+T1070,Optimize SEO using SEO,Content Marketing;Google Ads,5,12,Marketing
+T1071,Optimize SEO using Figma,Figma;Google Ads,5,12,Marketing
+T1072,Optimize SEO using Market Research,Content Marketing;SEO;Google Ads;Figma,5,2,Marketing
+T1073,Optimize SEO using Content Marketing,Google Ads;SEO;Market Research,3,9,Marketing
+T1074,Optimize SEO using Google Ads,Figma;Google Ads;Content Marketing;SEO,4,14,Marketing
+T1075,Optimize SEO using Content Marketing,Google Ads;Market Research,1,11,Marketing
+T1076,Optimize SEO using Content Marketing,Content Marketing;Google Ads;Figma;SEO,2,13,Marketing
+T1077,Optimize SEO using Content Marketing,Figma;Google Ads,1,13,Marketing
+T1078,Launch a SEO campaign with Figma,Figma;SEO;Market Research,2,9,Marketing
+T1079,Optimize SEO using SEO,Google Ads;Figma,5,13,Marketing
+T1080,Launch a Market Research campaign with Content Marketing,Figma;Google Ads;SEO;Content Marketing,1,9,Marketing
+T1081,Launch a Content Marketing campaign with Market Research,Market Research;Content Marketing;SEO,4,4,Marketing
+T1082,Optimize SEO using Google Ads,Figma;Content Marketing;SEO,3,12,Marketing
+T1083,Optimize SEO using Google Ads,Figma;Google Ads;Content Marketing,3,5,Marketing
+T1084,Optimize SEO using Figma,SEO;Google Ads;Market Research,4,3,Marketing
+T1085,Optimize SEO using Google Ads,Content Marketing;SEO;Google Ads,5,10,Marketing
+T1086,Launch a Market Research campaign with Figma,Figma;Google Ads,3,12,Marketing
+T1087,Design creatives with Content Marketing,Content Marketing;SEO,2,2,Marketing
+T1088,Optimize SEO using Figma,Figma;Market Research;Google Ads,1,13,Marketing
+T1089,Design creatives with Market Research,Google Ads;SEO;Figma,3,3,Marketing
+T1090,Launch a Market Research campaign with Content Marketing,SEO;Google Ads;Market Research;Figma,5,12,Marketing
+T1091,Optimize SEO using SEO,Content Marketing;Market Research;Figma,2,10,Marketing
+T1092,Optimize SEO using Content Marketing,Content Marketing;Google Ads,5,10,Marketing
+T1093,Launch a Google Ads campaign with Market Research,Figma;SEO,5,4,Marketing
+T1094,Design creatives with Figma,Market Research;Content Marketing,2,13,Marketing
+T1095,Optimize SEO using Market Research,Figma;Market Research;Content Marketing,2,11,Marketing
+T1096,Optimize SEO using Content Marketing,SEO;Figma;Content Marketing;Market Research,1,12,Marketing
+T1097,Design creatives with Figma,SEO;Content Marketing;Google Ads;Market Research,1,6,Marketing
+T1098,Launch a Content Marketing campaign with Google Ads,Content Marketing;Google Ads,2,8,Marketing
+T1099,Design creatives with SEO,Content Marketing;Figma,3,14,Marketing
+T1100,Design creatives with Google Ads,Figma;Content Marketing,4,12,Marketing
+T1101,Design creatives with Figma,Figma;Content Marketing;SEO,5,11,Marketing
+T1102,Design creatives with Market Research,Market Research;Content Marketing;Figma;Google Ads,5,2,Marketing
+T1103,Optimize SEO using Market Research,Figma;Content Marketing,4,7,Marketing
+T1104,Design creatives with Market Research,Figma;Content Marketing,4,7,Marketing
+T1105,Launch a SEO campaign with Content Marketing,Content Marketing;Google Ads;Figma,1,7,Marketing
+T1106,Optimize SEO using Figma,Figma;Content Marketing,5,5,Marketing
+T1107,Optimize SEO using Figma,Content Marketing;Google Ads,3,6,Marketing
+T1108,Optimize SEO using Figma,Google Ads;Market Research;Figma;Content Marketing,2,11,Marketing
+T1109,Launch a Figma campaign with SEO,Figma;Market Research,1,9,Marketing
+T1110,Design creatives with Content Marketing,SEO;Market Research;Figma;Content Marketing,4,3,Marketing
+T1111,Design creatives with SEO,Figma;Google Ads,3,4,Marketing
+T1112,Design creatives with SEO,SEO;Market Research;Google Ads,5,12,Marketing
+T1113,Design creatives with Market Research,Market Research;Figma,3,3,Marketing
+T1114,Launch a SEO campaign with Figma,SEO;Content Marketing,5,12,Marketing
+T1115,Launch a SEO campaign with Market Research,Market Research;Content Marketing;Google Ads;Figma,2,13,Marketing
+T1116,Design creatives with Figma,Content Marketing;Google Ads;Figma;Market Research,3,7,Marketing
+T1117,Design creatives with Google Ads,Google Ads;Content Marketing;Figma,5,12,Marketing
+T1118,Optimize SEO using Content Marketing,Figma;Google Ads,1,3,Marketing
+T1119,Launch a Content Marketing campaign with Google Ads,Content Marketing;Figma,2,5,Marketing
+T1120,Design creatives with Market Research,Market Research;SEO;Content Marketing;Figma,1,11,Marketing
+T1121,Optimize SEO using Google Ads,Google Ads;Market Research,5,6,Marketing
+T1122,Design creatives with Figma,Figma;Market Research,3,3,Marketing
+T1123,Launch a Market Research campaign with Content Marketing,Google Ads;Figma,3,8,Marketing
+T1124,Design creatives with SEO,Figma;SEO;Market Research;Google Ads,3,4,Marketing
+T1125,Optimize SEO using Market Research,Content Marketing;SEO;Google Ads,5,13,Marketing
+T1126,Optimize SEO using SEO,Content Marketing;Figma;Google Ads;Market Research,4,6,Marketing
+T1127,Launch a SEO campaign with Google Ads,SEO;Content Marketing;Market Research,4,2,Marketing
+T1128,Design creatives with Market Research,Market Research;SEO,3,10,Marketing
+T1129,Design creatives with Figma,Content Marketing;Market Research;Figma;Google Ads,4,12,Marketing
+T1130,Optimize SEO using SEO,Figma;Market Research;SEO,5,6,Marketing
+T1131,Optimize SEO using Figma,Figma;Google Ads,2,11,Marketing
+T1132,Generate leads using CRM,CRM;Lead Generation,5,6,Sales
+T1133,Analyze pipeline via Cold Calling,CRM;Negotiation,3,10,Sales
+T1134,Generate leads using Lead Generation,CRM;Negotiation;Salesforce,3,14,Sales
+T1135,Generate leads using Cold Calling,Lead Generation;Negotiation;CRM;Salesforce,4,14,Sales
+T1136,Analyze pipeline via CRM,CRM;Cold Calling,5,2,Sales
+T1137,Generate leads using Salesforce,Cold Calling;Negotiation;Lead Generation;CRM,1,5,Sales
+T1138,Create client pitch using CRM,Lead Generation;CRM;Cold Calling;Salesforce,3,13,Sales
+T1139,Analyze pipeline via Lead Generation,CRM;Lead Generation;Negotiation,2,11,Sales
+T1140,Generate leads using Negotiation,Negotiation;Lead Generation,5,14,Sales
+T1141,Create client pitch using Negotiation,Cold Calling;CRM;Negotiation,2,13,Sales
+T1142,Create client pitch using CRM,Cold Calling;Lead Generation;Salesforce;CRM,5,6,Sales
+T1143,Analyze pipeline via Cold Calling,Negotiation;Salesforce;CRM;Cold Calling,5,5,Sales
+T1144,Analyze pipeline via Lead Generation,Salesforce;Cold Calling;Lead Generation;CRM,2,3,Sales
+T1145,Create client pitch using Cold Calling,CRM;Lead Generation;Negotiation,2,6,Sales
+T1146,Create client pitch using CRM,Salesforce;Lead Generation,3,3,Sales
+T1147,Analyze pipeline via Salesforce,Lead Generation;Cold Calling;Salesforce;Negotiation,5,13,Sales
+T1148,Analyze pipeline via Salesforce,CRM;Negotiation,4,10,Sales
+T1149,Analyze pipeline via Lead Generation,Negotiation;Lead Generation;CRM,5,13,Sales
+T1150,Create client pitch using Lead Generation,Negotiation;Lead Generation;Salesforce,2,14,Sales
+T1151,Analyze pipeline via Lead Generation,Lead Generation;Cold Calling;Salesforce,5,5,Sales
+T1152,Generate leads using Negotiation,CRM;Cold Calling;Negotiation;Salesforce,5,8,Sales
+T1153,Generate leads using Cold Calling,Negotiation;Cold Calling;Salesforce,1,5,Sales
+T1154,Generate leads using Cold Calling,Lead Generation;Cold Calling;CRM,5,12,Sales
+T1155,Generate leads using Lead Generation,Lead Generation;Salesforce;CRM,1,6,Sales
+T1156,Analyze pipeline via Cold Calling,Lead Generation;CRM,5,7,Sales
+T1157,Analyze pipeline via Salesforce,Lead Generation;CRM;Salesforce,4,9,Sales
+T1158,Analyze pipeline via Salesforce,CRM;Cold Calling;Lead Generation;Negotiation,5,3,Sales
+T1159,Create client pitch using Negotiation,CRM;Negotiation,1,8,Sales
+T1160,Create client pitch using Salesforce,Negotiation;Cold Calling;Lead Generation,5,7,Sales
+T1161,Generate leads using Lead Generation,Lead Generation;Negotiation;Salesforce,1,2,Sales
+T1162,Generate leads using Negotiation,Salesforce;Cold Calling;CRM,4,10,Sales
+T1163,Analyze pipeline via Salesforce,Cold Calling;CRM;Negotiation,1,5,Sales
+T1164,Create client pitch using CRM,Negotiation;Cold Calling;Lead Generation;Salesforce,4,13,Sales
+T1165,Create client pitch using Negotiation,Negotiation;CRM;Cold Calling,1,9,Sales
+T1166,Create client pitch using Negotiation,CRM;Negotiation,2,11,Sales
+T1167,Create client pitch using Cold Calling,Cold Calling;Salesforce,3,8,Sales
+T1168,Create client pitch using Negotiation,Cold Calling;Lead Generation;CRM;Negotiation,1,3,Sales
+T1169,Analyze pipeline via CRM,CRM;Cold Calling;Salesforce,2,13,Sales
+T1170,Create client pitch using Negotiation,Lead Generation;Salesforce,3,2,Sales
+T1171,Generate leads using Cold Calling,Negotiation;CRM;Cold Calling;Lead Generation,5,14,Sales
+T1172,Create client pitch using Salesforce,Cold Calling;CRM,3,3,Sales
+T1173,Generate leads using CRM,Salesforce;CRM;Negotiation,4,8,Sales
+T1174,Create client pitch using Negotiation,Negotiation;Lead Generation;Salesforce;CRM,4,6,Sales
+T1175,Create client pitch using Negotiation,Cold Calling;CRM;Salesforce;Lead Generation,4,3,Sales
+T1176,Analyze pipeline via Cold Calling,Lead Generation;Salesforce,1,13,Sales
+T1177,Analyze pipeline via CRM,Lead Generation;Salesforce;Cold Calling,4,6,Sales
+T1178,Create client pitch using Negotiation,Lead Generation;Salesforce;CRM,4,5,Sales
+T1179,Create client pitch using Salesforce,Salesforce;Cold Calling;Lead Generation,5,12,Sales
+T1180,Create client pitch using Cold Calling,CRM;Negotiation;Lead Generation;Cold Calling,1,11,Sales
+T1181,Create client pitch using Negotiation,Salesforce;Cold Calling;CRM,2,2,Sales
+T1182,Analyze pipeline via Negotiation,Salesforce;Lead Generation,3,12,Sales
+T1183,Create client pitch using CRM,Salesforce;Cold Calling;Negotiation,5,13,Sales
+T1184,Analyze pipeline via Negotiation,Lead Generation;Cold Calling,3,13,Sales
+T1185,Generate leads using Cold Calling,Cold Calling;Negotiation,1,8,Sales
+T1186,Create client pitch using CRM,Negotiation;Lead Generation;Salesforce;Cold Calling,4,8,Sales
+T1187,Create client pitch using Negotiation,Cold Calling;Salesforce;Lead Generation,5,8,Sales
+T1188,Analyze pipeline via Salesforce,Cold Calling;Negotiation,1,4,Sales
+T1189,Analyze pipeline via CRM,Negotiation;Lead Generation,4,12,Sales
+T1190,Generate leads using Negotiation,Lead Generation;Salesforce,1,2,Sales
+T1191,Create client pitch using Cold Calling,Lead Generation;CRM;Cold Calling;Negotiation,5,2,Sales
+T1192,Analyze pipeline via Negotiation,Cold Calling;Salesforce;Negotiation,2,6,Sales
+T1193,Create client pitch using Cold Calling,CRM;Lead Generation,3,8,Sales
+T1194,Analyze pipeline via Cold Calling,Salesforce;Cold Calling;CRM,1,13,Sales
+T1195,Generate leads using Salesforce,Lead Generation;CRM;Cold Calling,5,9,Sales
+T1196,Create client pitch using Cold Calling,Lead Generation;Salesforce;Cold Calling,5,12,Sales
+T1197,Create client pitch using Cold Calling,Negotiation;Cold Calling,1,8,Sales
