@@ -1,4 +1,4 @@
-# AI-Powered Task-to-Team Member Matching System
+# Taskify- AI-Powered Task-to-Team Member Matching System
 
 This project implements an end-to-end AI system that matches tasks to the most suitable team members using a Transformer-based deep learning model. It combines semantic embeddings, structured features, and cross-attention to predict task-member compatibility, and includes a local web interface for real-time recommendations.
 
